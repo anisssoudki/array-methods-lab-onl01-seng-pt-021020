@@ -21,3 +21,11 @@ end
 def using_size(array)
 array.size
 end
+
+
+puts using_include(array, "a")
+puts using_sort(array)
+puts using_reverse(array)
+puts using_first(array)
+puts using_last(array)
+puts using_size(array)
