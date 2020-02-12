@@ -1,4 +1,4 @@
-
+array = ["c", "b", "a","d","m","z","p","y",]
 
 def using_include(array, element)
 array.include?(element)
