@@ -31,3 +31,5 @@ puts using_reverse(array)
 puts using_first(array)
 puts using_last(array)
 puts using_size(array)
+
+# note we dont need the array or puts just used for testing
